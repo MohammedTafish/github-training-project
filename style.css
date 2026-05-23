@@ -10,7 +10,7 @@ body{
 }
 
 nav{
-    background:#1e293b;
+    background:#004108;
     color:white;
     display:flex;
     justify-content:space-between;
@@ -47,7 +47,7 @@ nav a{
 }
 
 footer{
-    background:#1e293b;
+    background:#004108;
     color:white;
     text-align:center;
     padding:20px;
