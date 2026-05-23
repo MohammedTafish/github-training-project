@@ -45,6 +45,12 @@ nav a{
     margin:30px;
     border-radius:10px;
 }
+.skills{
+    padding:50px;
+    background:rgb(190, 212, 177);
+    margin:30px;
+    border-radius:10px;
+}
 
 footer{
     background:#004108;
