@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#f4f4f4;
+    background:#c6edf3;
 }
 
 nav{
@@ -41,7 +41,7 @@ nav a{
 
 .about{
     padding:50px;
-    background:white;
+    background:rgb(190, 212, 177);
     margin:30px;
     border-radius:10px;
 }
